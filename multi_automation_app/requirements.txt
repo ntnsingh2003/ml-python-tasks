@@ -1,0 +1,7 @@
+streamlit
+pywhatkit
+twilio
+pillow
+requests
+beautifulsoup4
+googlesearch-python
